@@ -1,5 +1,4 @@
 # ShellHacksFlaskAPI
 RESTful API created using Flask
 
-
-DEPRACATED: Please visit https://github.com/sdiaoune/JixelAPI
+NEEDS TO BE MERGED WITH https://github.com/sdiaoune/JixelAPI
